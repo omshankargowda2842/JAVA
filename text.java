@@ -3,3 +3,12 @@ class text{
 		System.out.println("java is running successfully in ur machine");
 	}
 }
+
+
+
+
+
+
+
+
+

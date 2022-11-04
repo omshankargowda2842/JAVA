@@ -3,4 +3,4 @@ class Intarray{
    int[] esize={30,32,44,56,12};
    System.out.println(esize);
    }
-}
+}	

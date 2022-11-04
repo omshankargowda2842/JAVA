@@ -4,6 +4,4 @@ class Chararray{
 	System.out.println(size);
    
   }
-
-
 }
